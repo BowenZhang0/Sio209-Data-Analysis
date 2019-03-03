@@ -1,0 +1,7 @@
+subject_id,computer_has,computer_os,score_bash,score_command,score_matlab,score_perl,score_python,score_r
+
+10000,N,Mac,0,0
+13001,Y,Mac,1,2
+60985,Y,Windows,0,1
+43309,Y,Mac,3,3
+89785,Y,Windows,2,2
